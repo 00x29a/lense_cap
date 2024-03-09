@@ -16,13 +16,3 @@ To get started with this project, you'll need to have OpenSCAD installed on your
 2. Open the .scad file in OpenSCAD.
 3. You can view the 3D model, make any modifications if needed, and then export it as an STL file.
 4. The STL file can be used for 3D printing.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit a pull request.
-
-## License
-
-This project is open source, under the terms of the [MIT license](LICENSE).
-
-Please note: Always make sure to check the dimensions and compatibility with your specific lense model before printing.
